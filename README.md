@@ -8,5 +8,5 @@ My research interests span across virus evolution, phylogenetics, and more broad
 
 ### 📬 Get in Touch
 
-- Website: *in construction
+- Website: jonathonmifsud.github.io
 - E-mail: [jmif9945@uni.sydney.edu.au](jmif9945@uni.sydney.edu.au)
